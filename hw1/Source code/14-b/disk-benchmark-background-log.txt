@@ -1,0 +1,21 @@
+0+1 records in
+0+1 records out
+72 bytes copied, 0.00282083 s, 25.5 kB/s
+abc 500
+dhf 634
+wqs 721
+gls 396
+pqr 400
+wnf 550
+qmd 300
+aws 200
+acz 250
+abc 500
+dhf 634
+wqs 721
+gls 396
+pqr 400
+wnf 550
+qmd 300
+aws 200
+acz 250
