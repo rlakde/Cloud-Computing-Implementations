@@ -1,12 +1,20 @@
-**Illinois Institute of Technology**  
-**CS553 Could Computing (Spring 2019)**  
-**Repository for Homework Assignments**  
-Student name: Rohit Lakde 
+#Assignment1##
 
-Below is the folder hierarchy for the homework1.
-rmadhukar -> hw1 -> Source code
-----------------------------------------------
-Source code folder contains four subfolders which contains all the commands along with pdf explainig steps to run it.
-----------------------------------------------
-Even there is a report present for all thoery questions.
-----------------------------------------------
+There is a folder SourceCOde which is present in it which contains all the codes and report
+
+##Folder SourceCode
+Contains 4 folders for each code
+
+##Usage
+```bash
+TO run file enter ./filename.sh in console
+
+```bash
+
+```bash
+
+```bash
+
+##hw1-madhukar-lakde-report.pdf for all theory questions
+ 
+
