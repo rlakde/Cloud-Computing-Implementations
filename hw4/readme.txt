@@ -2,7 +2,7 @@
 Memory benchmarking with the help of memcopy function in c++
 
 ### Prerequisites
-pmbw is installed in linux for memory benchmarking
+pmbw 0.6.2 is installed in linux for memory benchmarking
 
 ## Running the tests
 use below commands to run c++ codes
