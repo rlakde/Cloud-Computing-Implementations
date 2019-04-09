@@ -1,0 +1,16 @@
+Mon Apr  8 22:35:07 DST 2019
+Enter number of threads 8
+thread t0 sorting done
+thread t1 sorting done
+thread t2 sorting done
+thread t3 sorting done
+thread t4 sorting done
+thread t5 sorting done
+thread t6 sorting done
+thread t7 sorting done
+Done! Time required is 613.8658758234sec
+Sorting output is sorted in merge7.txt file
+Records: 102400000
+Checksum: 30d3f9f9a56f3f3
+Duplicate keys: 0
+SUCCESS - all records are in order
