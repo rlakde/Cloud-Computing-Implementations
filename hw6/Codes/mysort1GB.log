@@ -1,0 +1,11 @@
+Mon Apr  8 22:29:55 DST 2019
+Enter number of threads 2
+thread t0 sorting done
+thread t1 sorting done
+Merging Done
+Done! Time required is 25.3306591511Sec
+Sorting output is sorted in merge0.txt file
+Records: 10240000
+Checksum: 4e1d7bcdea349c
+Duplicate keys: 0
+SUCCESS - all records are in order
